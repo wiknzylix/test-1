@@ -1,2 +1,2 @@
-Just a test<\n>
+Just a test
 I'm learning HTML now lol
